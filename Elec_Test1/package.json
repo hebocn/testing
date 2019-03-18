@@ -1,0 +1,14 @@
+{
+  "name": "paramount",
+  "version": "1.0.0",
+  "description": "Electron Project",
+  "main": "resource/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "hebo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.0"
+  }
+}
